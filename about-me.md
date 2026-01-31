@@ -1,57 +1,41 @@
 # About me
 
-<!--
-INSTRUCTIONS: Complete each section below using Markdown formatting.
-Ask Copilot for help if you're unsure how to format something!
-Delete these instruction comments when you're done.
--->
 
 ## My name
 
-<!-- Replace this line with your name. Try making it bold! -->
+**Natalie DeTample**
 
 ## What I'm studying
 
-<!-- What is your major or area of study? -->
+Computer Science
 
 ## Why I'm taking this course
 
-<!-- Write a sentence or two about why you enrolled in this course. -->
+I enrolled in this class to get another language under my belt. Javascript will be my first front end language so I'm excited to see if I'll enjoy it.
 
 ## My programming experience
 
-<!--
-Describe your previous programming experience using a list.
-If you have none, that's okay! You can write "No previous experience"
-or list other technical skills you have.
-
-Example format:
-- Skill or experience 1
-- Skill or experience 2
--->
+- Java
+    - Proficient from highschool classes
+- Python
+    - Proficient from highschool and college classes
+- Assembly
+    - Knowledgable from college classes
 
 ## A fun fact about me
 
-<!-- Share something interesting about yourself! -->
+I am a *twin*!
 
 ## My goals for this semester
 
-<!--
-What do you hope to learn or accomplish?
-Try using a numbered list for your goals:
-
-1. First goal
-2. Second goal
-3. Third goal
--->
-
----
+1. Proficiency in Github
+2. Make a website
+3. Have web development be a new possibility for career interest
 
 ## Optional: Add more about yourself
 
-Feel free to add any of these using what you learned in `learn-markdown.md`:
+Comparison is the theif of joy.
+`>` Theodore Roosevelt
 
-- A link to a website you enjoy
-- A favorite quote (use a blockquote!)
-- A table of your favorite things
-- An image (if you know one you'd like to include)
+I've been enjoying movies and shows on [Disney+](https://www.disneyplus.com)
+

@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:** [Your name]
+**Student name:** Natalie DeTample
 
 **Assignment:** Week 1 - Markdown fundamentals
 
@@ -8,51 +8,51 @@
 
 Review your SpecStory history (`.specstory/history/`) and document 3 meaningful interactions with Copilot.
 
-### Interaction 1: [Brief title, e.g., "Learning about headers"]
+### Interaction 1: Learning how to preview my markdown
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> how do I preview my about-me.md file
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+I learned the shortcut of ctrl+shift+V opens up a preview of my code. I also learned where to find the button for this and that I can splitscreen my markdown and preview.
 
 **How I applied it:**
 
-[What did you do with this information? How did it help you complete the assignment?]
+I first previewed the code by itself which allowed me to make sure everything was ready for submission. After checking it I tried out the splitscreen which I think will be a very helpful feature for my future projects.
 
 ---
 
-### Interaction 2: [Brief title]
+### Interaction 2: Learning what code blocks syntax does
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> When I type ```markdown is that signaling to me as someone reading the code that the following is in markdown or does the computer read that syntax to know the following is coded in markdown
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+I learned that this syntax is telling the preview that the following text is in markdown so that the preview can properly display it.
 
 **How I applied it:**
 
-[What did you do with this information?]
+I did not use this syntax at all but it made me better understand markdown.
 
 ---
 
-### Interaction 3: [Brief title]
+### Interaction 3: Follow up question on block code
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> what would that example look like if it was ```javascript
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+I solidified my understanding of the code block syntax.
 
 **How I applied it:**
 
-[What did you do with this information?]
+Seeing the example of javascript in color really helped me understand exaclty what the code block syntax does thanks to javascript having more colors.
 
 ---
 
@@ -60,19 +60,19 @@ Review your SpecStory history (`.specstory/history/`) and document 3 meaningful 
 
 ### Most helpful AI interaction
 
-[Which of your conversations with Copilot helped you the most? Why was it helpful?]
+The preview conversation was most helpful because not only did I get the answer I was looking for, I also got another way to do it that will help me in the future.
 
 ### Least helpful AI interaction
 
-[Was there an interaction that did not help you, or even confused you? What made it less useful? Did you try rephrasing your question?]
+There was not a conversation that confused me or was unhelpful.
 
 ### What Markdown concepts did you learn?
 
-[Summarize the Markdown concepts you learned from working with Copilot. Did you learn anything you did not expect?]
+I specifically learned exactly how the code blocks work in Markdown and how they display the code as the code itself instead of ordinary text.
 
 ### Copilot as a learning tool
 
-[Were you able to use Copilot as a learning tool? What worked well? What would you do differently next time?]
+I was able to use it as a learning tool. Asking it for another example of the code blocks in a different language worked well becasue it seemed to understand what I was looking to see and showed me exactly that.
 
 ### Context awareness (optional)
 

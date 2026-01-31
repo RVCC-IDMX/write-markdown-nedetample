@@ -11,5 +11,6 @@
       "strings": false
     }
   },
-  "markdown.preview.breaks": true
+  "markdown.preview.breaks": true,
+  "specstory.cloudSync.enabled": "always"
 }
